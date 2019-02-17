@@ -1,2 +1,3 @@
 # Hello-world
-It's my first time github work,Thank you.  
+It's my first time github work,Thank you.
+Glad to lear stap by stap...
